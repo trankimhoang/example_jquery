@@ -1,0 +1,43 @@
+*{margin: 0;padding: 0;}
+
+.ndmotkhoi {
+    padding: 10px;
+    border: 1px solid #C2C2C2;
+    color: chocolate;
+}
+
+.motkhoi h3 {
+    background: #e79eb7;
+    color: #931740;
+    padding: 10px 15px;
+}
+
+h3.red {
+    background: lightcoral;
+}
+
+.motkhoi h3.red:hover {
+    background-color: lightcoral;
+    background: url(images/up.jpg) no-repeat 96% lightcoral;
+    background-size: 10%;
+}
+
+.motkhoi h3:hover {
+    background: url(images/down.jpg) no-repeat 96% #e79eb7;
+    background-size: 10%;
+}
+
+.hieuung {
+    width: 40%;
+    margin: auto;
+    margin-top: 10%;
+}
+
+.container {
+    text-align: center;
+}
+
+body {
+    background: url(images/bg.jpg);
+    font-family: cursive;
+}
